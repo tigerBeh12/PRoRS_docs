@@ -6,3 +6,4 @@
 
     visualize_hyperspectral_image.ipynb
     jichao-visualize.ipynb
+    Classification_XOR-V2.0.ipynb
